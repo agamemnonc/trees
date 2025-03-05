@@ -1,2 +1,2 @@
 # trees
-Toy implementations of free-based models and ensembles (almost) from scratch
+Toy implementations of tree-based models and ensembles (almost) from scratch.
