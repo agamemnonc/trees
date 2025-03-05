@@ -13,6 +13,10 @@ scikit-learn = "^1.6.1"
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^9.0.1"
+pytest = "^8.3.5"
+black = "^25.1.0"
+mypy = "^1.15.0"
+flake8 = "^7.1.2"
 
 [build-system]
 requires = ["poetry-core"]
